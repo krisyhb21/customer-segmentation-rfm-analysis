@@ -54,7 +54,7 @@ The visualization provides an overview of customer base composition and helps id
 
 ## C. Key Findings & Business Implications
 
-![Cohort Retention Heatmap](outputs/treemap_chart.png)
+![Customer Segmentation Treemap](outputs/treemap_chart.png)
 
 ### The Insight
 
