@@ -1,5 +1,7 @@
 # Customer Segmentation Analysis – RFM Model
 
+# Krisna Lathu Syahbana - Business Intelligence
+
 ## A. Project Overview
 
 **INDUSTRY:** MSME – Laundry Services
@@ -72,3 +74,42 @@ The business should prioritize customer reactivation and retention strategies ba
 - **Champions & Loyal Customers:** Strengthen loyalty programs and personalized rewards to maintain purchasing frequency and encourage long-term customer relationships.
 
 By differentiating retention strategies across customer segments, the business can make more efficient use of its marketing resources, strengthen recurring revenue, and reduce excessive dependence on new customer acquisition.
+
+## D. Tools & Technologies
+
+- Python
+- Pandas
+- Numpy
+- Plotly
+- Jupyter Notebook
+
+## E. Project Structure
+
+```text
+user-retention-analysis/
+│
+├── data/
+│   └── rekapitulasi_transaksi_irlo.xlsx
+│
+├── docs/
+│   └── Project LO II - RFM Segmentation.pdf
+│
+├── notebooks/
+│   └── LO_Project2.ipynb
+│
+├── outputs/
+│   └── treemap_chart.png
+│
+└── README.md
+```
+
+## F. Project Scope
+
+- **Business Domain:** MSME Laundry Services
+- **Analysis Period:** September 2025 – February 2026
+- **Primary Analysis:** Customer Segmentation with RFM Analysis
+- **Business Focus:** Customer Segmentation and Customer Base Evaluation
+
+---
+
+*This project uses anonymized business transaction data for analytical and portfolio purposes.*
