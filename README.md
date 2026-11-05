@@ -54,6 +54,8 @@ The visualization provides an overview of customer base composition and helps id
 
 ## C. Key Findings & Business Implications
 
+![Cohort Retention Heatmap](outputs/treemap_chart.png)
+
 ### The Insight
 
 The RFM segmentation reveals that **49.2% of customers (221 out of 449)** belong to declining or inactive customer segments: Hibernating, At Risk, About to Sleep, and Need Attention.
